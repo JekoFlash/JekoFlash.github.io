@@ -1,6 +1,7 @@
-# Glossary
+# Keyword
 
 # ความหมายของคำ Software Defined Wide Area Network (SD-WAN) จากแหล่งข้อมูลต่างๆ
+
 | แหล่งข้อมูล | ความหมาย |
 | ----------- | -------- |
 | ISC2        | Is an extension of the SDN practices to connect to entities spread across the internet to support WAN architecture especially related to cloud migration. |
