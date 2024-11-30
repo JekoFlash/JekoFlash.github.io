@@ -1,6 +1,8 @@
 # Glossary
 
 # ความหมายของคำ Software Defined Wide Area Network (SD-WAN) จากแหล่งข้อมูลต่างๆ
-| แหล่งข้อมูลที่หามา | ความหมาย(English) | ความหมาย(thai) |
-| ---- | ---- | ---- |
-| ISC2 | Is an extension of the SDN practices to connect to entities spread across the internet to support WAN architecture especially related to cloud migration. | เป็นการขยายแนวปฏิบัติของ SDN (Software-Defined Networking) เพื่อเชื่อมต่อกับหน่วยงานที่กระจายอยู่ทั่วอินเทอร์เน็ต โดยมีเป้าหมายเพื่อสนับสนุนสถาปัตยกรรม WAN (Wide Area Network) โดยเฉพาะในบริบทของการย้ายระบบไปยังคลาวด์ | ChatGPT  |    A Software-Defined Wide Area Network (SD-WAN) is a virtualized WAN architecture that allows enterprises to securely connect users to applications by leveraging a combination of transport services such as MPLS, LTE, and broadband internet. It uses software-based management to direct traffic intelligently across the WAN, improving application performance, reducing costs, and enhancing security.   |  เครือข่ายบริเวณกว้างที่กำหนดโดยซอฟต์แวร์ (SD-WAN) คือ สถาปัตยกรรม WAN แบบเสมือนที่ช่วยให้องค์กรสามารถเชื่อมต่อผู้ใช้งานกับแอปพลิเคชันได้อย่างปลอดภัย โดยใช้บริการการเชื่อมต่อหลายรูปแบบ เช่น MPLS, LTE และอินเทอร์เน็ตบรอดแบนด์ SD-WAN ใช้การจัดการที่ขับเคลื่อนด้วยซอฟต์แวร์เพื่อควบคุมการรับส่งข้อมูลอย่างชาญฉลาดในเครือข่าย WAN ช่วยเพิ่มประสิทธิภาพของแอปพลิเคชัน ลดต้นทุน และเพิ่มความปลอดภัยในระบบเครือข่าย | Gemini | It is a technology that uses software to define and manage a WAN (Wide Area Network), which connects multiple branch offices or data centers of an organization. | เครือข่ายระยะไกลที่ถูกกำหนดโดยซอฟต์แวร์ เป็นเทคโนโลยีที่ใช้ซอฟต์แวร์ในการควบคุมและจัดการการเชื่อมต่อระหว่างสาขาต่าง ๆ หรือดาต้าเซ็นเตอร์ขององค์กร ทำให้การจัดการเครือข่ายมีความยืดหยุ่นและมีประสิทธิภาพมากขึ้น |
+| แหล่งข้อมูล | ความหมาย | 
+| -------  | -------- |
+| ISC2     | Is an extension of the SDN practices to connect to entities spread across the internet to support WAN architecture especially related to cloud migration. |
+| CHAT GPT | เป็นการต่อยอดแนวทางปฏิบัติของ SDN เพื่อเชื่อมต่อกับหน่วยงานที่กระจายตัวอยู่บนอินเทอร์เน็ต รองรับสถาปัตยกรรม WAN โดยเฉพาะในส่วนที่เกี่ยวข้องกับการย้ายระบบไปยังคลาวด์ |
+| Gemini   | การขยายแนวปฏิบัติของ SDN เพื่อเชื่อมต่อกับหน่วยงานที่กระจายอยู่ทั่วอินเทอร์เน็ต เพื่อสนับสนุนสถาปัตยกรรม WAN โดยเฉพาะอย่างยิ่งที่เกี่ยวข้องกับการย้ายระบบคลาวด์ |
