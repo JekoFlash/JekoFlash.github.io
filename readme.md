@@ -6,6 +6,6 @@
 
 [AUTHENTICATION](authentication)
 --------------------------------
-[GlOSSARY](glossary)
+[KEYWORD](keyword)
 
 
