@@ -5,6 +5,7 @@
 ![alt text](./assets/Jedai.JPG)
 
 [AUTHENTICATION](authentication)
-[Glossary](Glossary)
+--------------------------------
+[GlOSSARY](glossary)
 
 
