@@ -8,7 +8,7 @@
 
 ![alt text](./assets/Jedai.JPG)
 
-## 🎮 Assingment 🎮
+## 🎮 Assignment 🎮
 
 [AUTHENTICATION](authentication)
 
