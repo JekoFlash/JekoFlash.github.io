@@ -1,6 +1,5 @@
-# Keyword
+# Software Defined Wide Area Network (SD-WAN) 
 
-## Software Defined Wide Area Network (SD-WAN) 
 ### [ CISSP Glossary - Student Guide ]
 
 อ้างอิงจาก [CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary#s)
