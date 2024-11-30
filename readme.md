@@ -1,8 +1,14 @@
-# Supakrit Somritjinda 6530200495
-- My NickName is Jedai.
-    - I am 20 year old.
+# Information 👨🏼‍🦱
+
+## About me
+
+- My Name is Supakrit Somritjinda
+- My NickName is Jedai
+- I Study at Kasetsart University Sriracha Campus 🏫
 
 ![alt text](./assets/Jedai.JPG)
+
+## 🎮 Assingment 🎮
 
 [AUTHENTICATION](authentication)
 --------------------------------
