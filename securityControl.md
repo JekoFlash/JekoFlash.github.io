@@ -1,6 +1,6 @@
 # Security Control
 
-![alt text](./assets/SecurityControl.png)
+![alt text](./assets/SecurityControl.jpg)
 
 ## Type Of Security Control
 
