@@ -19,4 +19,6 @@
 
 [Completeness](completeness)
 
+[BoardGame](boardGame)
+
 [SecurityControl](securityControl)
