@@ -42,9 +42,9 @@
 
 ## สมาชิกในกลุ่ม
 
-[Supakrit Somritjinda]()
-[Nonpawit Silabumrungrad](https://waterondaway.github.io/boardgame)
-[Natchanan Lordee](https://ncnld2547.github.io/boardgameActivity)
-[Veeraya Lekchaoum](https://valin4637.github.io/boardGame)
-[Klittima Chaowadee](https://anniemark2522.github.io/boardgame/boardg)
-[Nakorn Tungprapaporn](https://taedate.github.io/boardgame)
+1. [Supakrit Somritjinda](https://jekoflash.github.io/boardGame)
+2. [Nonpawit Silabumrungrad](https://waterondaway.github.io/boardgame)
+3. [Natchanan Lordee](https://ncnld2547.github.io/boardgameActivity)
+4. [Veeraya Lekchaoum](https://valin4637.github.io/boardGame)
+5. [Klittima Chaowadee](https://anniemark2522.github.io/boardgame/boardg)
+6. [Nakorn Tungprapaporn](https://taedate.github.io/boardgame)
