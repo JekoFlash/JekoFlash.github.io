@@ -22,3 +22,5 @@
 [BoardGame](boardGame)
 
 [SecurityControl](securityControl)
+
+[SecurityRequirement](security-requirement)

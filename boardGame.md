@@ -42,6 +42,7 @@
 
 ## สมาชิกในกลุ่ม
 
+[Supakrit Somritjinda]()
 [Nonpawit Silabumrungrad](https://waterondaway.github.io/boardgame)
 [Natchanan Lordee](https://ncnld2547.github.io/boardgameActivity)
 [Veeraya Lekchaoum](https://valin4637.github.io/boardGame)
