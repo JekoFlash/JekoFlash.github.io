@@ -41,3 +41,9 @@
 ทางกลุ่มผู้จัดทำได้ขออนุญาตแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media
 
 ## สมาชิกในกลุ่ม
+
+[Nonpawit Silabumrungrad](https://waterondaway.github.io/boardgame)
+[Natchanan Lordee](https://ncnld2547.github.io/boardgameActivity)
+[Veeraya Lekchaoum](https://valin4637.github.io/boardGame)
+[Klittima Chaowadee](https://anniemark2522.github.io/boardgame/boardg)
+[Nakorn Tungprapaporn](https://taedate.github.io/boardgame)
