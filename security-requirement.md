@@ -38,5 +38,5 @@ OTP หรือ One Time Password นั้นมีเวลาจำกัด
 
 ### Member
 
-[Supakrit Somritjinda](https://jekoflash.github.io/security-requirement)
-[Nakorn Tungprapaporn](https://taedate.github.io/boardgame)
+1. [Supakrit Somritjinda](https://jekoflash.github.io/security-requirement)
+2. [Nakorn Tungprapaporn](https://taedate.github.io/boardgame)
