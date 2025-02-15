@@ -21,6 +21,6 @@
 
 [BoardGame](boardGame)
 
-[SecurityControl](securityControl)
+[SecurityControl](security-Control)
 
 [SecurityRequirement](security-requirement)
